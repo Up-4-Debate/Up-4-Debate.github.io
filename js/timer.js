@@ -1,1 +1,3 @@
-console.log(Date.now());
+while(true){
+    console.log(Date.now());
+}
