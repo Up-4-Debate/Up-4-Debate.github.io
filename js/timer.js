@@ -1,3 +1,1 @@
-while(true){
-    console.log(Date.now());
-}
+console.log(Date.now());
